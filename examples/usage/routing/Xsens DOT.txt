@@ -1,0 +1,38 @@
+TO MATCH : 15172004-4947-11e9-8646-d663bd873d93
+
+
+/Users/jacob/Documents/Repos/dotosc/venv/lib/python3.11/site-packages/dotosc/xsens_connect.py:61: FutureWarning: This method will be removed future version, use the services property instead.
+  services = await client.get_services()
+Service UUID: 15173000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15173001-4947-11e9-8646-d663bd873d93
+Service UUID: 15174000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15174001-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15174002-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15174003-4947-11e9-8646-d663bd873d93
+Service UUID: 15172000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172001-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172002-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172003-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172004-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172005-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172006-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172007-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15172008-4947-11e9-8646-d663bd873d93
+Service UUID: 15171000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15171001-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15171002-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15171004-4947-11e9-8646-d663bd873d93
+Service UUID: 15175000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15175001-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15175002-4947-11e9-8646-d663bd873d93
+Service UUID: 1517a000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 1517a001-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 1517a002-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 1517a003-4947-11e9-8646-d663bd873d93
+Service UUID: 15177000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15177001-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15177002-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15177003-4947-11e9-8646-d663bd873d93
+Service UUID: 15176000-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15176001-4947-11e9-8646-d663bd873d93
+  Characteristic UUID: 15176002-4947-11e9-8646-d663bd873d93

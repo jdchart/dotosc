@@ -1,0 +1,5 @@
+venv
+dotosc.egg-info
+build
+examples/usage/__pycache__
+examples/tutorial/__pycache__
